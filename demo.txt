@@ -1,0 +1,6 @@
+Hi I am Bhanu
+
+--------------
+git status --> track 
+untracked,
+modified
